@@ -22,7 +22,7 @@ def bonus
 #hash_name[][key_1] =
 epic_tragedy[:montague][:hero][:status] = ["dead"],
 
-epic_tragedy = [:capulet][:heroine][:status] []= ["dead"],
+#epic_tragedy = [:capulet][:heroine][:status] []= ["dead"],
   #code your solution here:
 
 
